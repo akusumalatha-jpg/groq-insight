@@ -1,0 +1,6 @@
+{
+  "name": "People Search Summarizer",
+  "description": "Search public social profiles and generate detailed dossier summaries using Groq LLM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
